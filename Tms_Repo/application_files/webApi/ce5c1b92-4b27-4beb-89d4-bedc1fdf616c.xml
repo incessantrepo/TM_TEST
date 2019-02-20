@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<webApiHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <versionUuid>3227003e-c644-447b-85f6-f3fa5bb7374a</versionUuid>
+    <webApi a:uuid="ce5c1b92-4b27-4beb-89d4-bedc1fdf616c" name="A">
+        <a:description></a:description>
+        <a:expression></a:expression>
+        <a:urlAlias>A</a:urlAlias>
+        <a:httpMethod>GET</a:httpMethod>
+        <a:system>false</a:system>
+    </webApi>
+    <roleMap/>
+    <history>
+        <historyInfo versionUuid="3227003e-c644-447b-85f6-f3fa5bb7374a"/>
+    </history>
+</webApiHaul>
